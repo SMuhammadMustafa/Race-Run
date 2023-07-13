@@ -1,7 +1,5 @@
 # Race Run
- 
-A Hyper-Casual Runner Game where you have to increase your car's horsepower by collecting new items and avoiding rusted items to win races!
-
+ A Hyper-Casual Runner Game where you have to increase your car's horsepower by collecting new items and avoiding rusted items to win races!
 # How to Play
 
 - Collect new items and avoid rusted items
